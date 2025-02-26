@@ -1,5 +1,7 @@
 📌 Cassava Leaf Disease Classification
 
+This repo was created for Istanbul Technical Unıversity- BBL 588E- Advanced topics in Computer Vision course term project Cassava Leaf Disease Classification.
+
 A deep learning-based project for classifying cassava leaf diseases using image recognition.
 
 📂 Dataset
